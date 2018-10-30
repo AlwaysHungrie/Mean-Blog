@@ -1,3 +1,12 @@
+#Todo
+- Change UI of client-side
+- Simplify admin
+- login route/signup route for admin
+- make db to store admin and user seperately
+- comment section for logged in user
+- star rating
+
+
 # Mean Blog
 
 Blog using Nodejs, Expressjs, Angularjs and Mongodb. MEAN Javascript Fullstack application
